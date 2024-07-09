@@ -1,6 +1,9 @@
 ## Customer Churn Prediction 2020
 
+
 This project is my submission for the Kaggle competition "Customer Churn Prediction 2020".
+
+
 
 ### Introduction
 The goal of this competition is to build a machine learning model that can accurately predict whether a customer will churn (i.e., cancel their service) based on various customer account and usage features. Predicting customer churn is an important problem for many businesses, as it allows them to proactively identify at-risk customers and take steps to retain them.
