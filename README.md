@@ -29,24 +29,18 @@ I have experimented with several machine learning algorithms for this competitio
 After tuning the hyperparameters of these models using techniques like grid search and cross-validation, I found that the XGBoost Classifier performed the best on the validation set, achieving an F1-score of 0.82.
 
 ### Results
-On the competition leaderboard, my current F1-score is 0.81, placing me in the top 20% of participants. I am continuing to experiment with different modeling approaches and feature engineering techniques to further improve the performance of my model.
+
 
 ### Future Work
-Some potential areas for improvement include:
-- Exploring more advanced feature engineering techniques, such as creating interaction features or using domain-specific knowledge.
-- Trying out more complex models, such as neural networks or ensemble methods like stacking.
-- Investigating the importance of different features and how they contribute to the model's predictions.
+
 
 ### Usage
 To run my code and reproduce the results, please follow these steps:
-1. Clone the GitHub repository: `git clone https://github.com/your-username/customer-churn-prediction-2020.git`
+1. Clone the GitHub repository: `git clone https://github.com/Endework/CustomerChurnPrediction2020.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python main.py`
+
 
 ### Acknowledgments
-I would like to thank the Kaggle community and the competition organizers for providing this valuable learning opportunity. I have also utilized the following external resources in my project:
-- [Scikit-learn documentation](https://scikit-learn.org/stable/documentation.html)
-- [XGBoost documentation](https://xgboost.readthedocs.io/en/latest/)
 
 Citations:
 [1] https://www.kaggle.com/competitions/customer-chur
