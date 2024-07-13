@@ -43,4 +43,4 @@ To run my code and reproduce the results, please follow these steps:
 ### Acknowledgments
 
 Citations:
-[1] https://www.kaggle.com/competitions/customer-chur
+[1] https://www.kaggle.com/code/triowibowo28/customer-churn-prediction
