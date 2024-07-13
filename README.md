@@ -15,13 +15,13 @@ The training dataset provided for this competition contains 4,250 samples, with 
 
 The features include information about the customer's account, such as account length, area code, international plan, voice mail plan, and number of customer service calls. There are also features related to the customer's usage, such as total minutes, calls, and charges for day, evening, night, and international calls.
 
-To prepare the data for modeling, I have performed the following preprocessing steps:
+To prepare the data for modeling, I will  perform the following preprocessing steps:
 1. Handled missing values by imputing the mean for numerical features and the mode for categorical features.
 2. Encoded categorical features using one-hot encoding.
 3. Engineered additional features, such as the ratio of international to total calls and charges.
 
 ### Modeling
-I have experimented with several machine learning algorithms for this competition, including:
+I will experiment with several machine learning algorithms for this competition, including:
 - **Random Forest Classifier**: A robust ensemble method that can handle both numerical and categorical features, as well as complex, nonlinear relationships in the data.
 - **XGBoost Classifier**: A powerful gradient boosting algorithm that has shown excellent performance on many classification tasks.
 - **Logistic Regression**: A simple and interpretable model that can provide insights into the relationship between the features and the target variable.
